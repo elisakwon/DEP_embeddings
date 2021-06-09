@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "DEP tensor",
+      "tensorShape": [
+        4512,
+        2395
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/part_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/part_info.tsv"
+      }
+    }
+  ]
+}
