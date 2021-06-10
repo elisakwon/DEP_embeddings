@@ -6,9 +6,9 @@
         4512,
         2395
       ],
-      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/part_embedding.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/part_info.tsv"
-      }
+      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/red_part_embedding.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/red_part_info.tsv"
+      
     }
   ]
 }
