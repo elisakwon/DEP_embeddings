@@ -1,14 +1,20 @@
 {
   "embeddings": [
     {
-      "tensorName": "DEP tensor",
+      "tensorName": "My tensor",
       "tensorShape": [
         4512,
         2395
       ],
-      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/red_part_embedding.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/red_part_info.tsv"
-      
+      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_embedding_app.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_info.tsv"
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/sprites.png?raw=true",
+        "singleImageDim": [
+          120,
+          120
+        ]
+      }
     }
   ]
 }
