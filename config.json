@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        4512,
-        2395
+        729,
+        128
       ],
       "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_embedding_app.tsv",
       "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_info.tsv",
