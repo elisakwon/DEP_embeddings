@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        729,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_embedding_fcn.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_info.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/sprites.png?raw=true",
+        "singleImageDim": [
+          64,
+          64
+        ]
+      }
+    }
+  ]
+}
