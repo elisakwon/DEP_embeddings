@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/sprites.png?raw=true",
         "singleImageDim": [
-          27,
-          27
+          64,
+          64
         ]
       }
     }
