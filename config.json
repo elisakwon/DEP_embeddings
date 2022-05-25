@@ -6,8 +6,7 @@
         729,
         128
       ],
-      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_embedding_app.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_info2.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/kwonelis/DEP_embeddings/main/red_part_embedding_app.tsv"
     }
   ]
 }
